@@ -1,0 +1,10 @@
+# Maven build directory
+target/
+
+# Node stuff for Percy Agent
+node_modules/
+
+# Code editor related stuff
+.idea
+.vscode
+.settings
